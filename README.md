@@ -10,8 +10,9 @@ This repository contains the supplementary code, data, and evaluation results fo
 
 ```
 .
-├── FRAME_input_keys.json / .csv      # Benchmark input keys (4,363 datapoints)
-├── FRAME_output_keys.json / .csv     # Benchmark output keys (4,363 datapoints)
+├── FRAME_Benchmark_Dataset/          # Benchmark data (4,363 datapoints)
+│   ├── FRAME_input_keys.json / .csv  # Structured simulation context
+│   └── FRAME_output_keys.json / .csv # Reference outputs
 ├── code/                             # All source code
 │   ├── data_filtering/               # Multi-pass data filtering pipeline
 │   ├── data_structuring/             # LLM-driven structured extraction pipeline
@@ -26,6 +27,8 @@ This repository contains the supplementary code, data, and evaluation results fo
 ---
 
 ## Benchmark Data
+
+Located in `FRAME_Benchmark_Dataset/`:
 
 | File | Description |
 |------|-------------|
