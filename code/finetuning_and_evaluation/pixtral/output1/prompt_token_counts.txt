@@ -1,0 +1,15 @@
+Processing prompts and calculating total (text + image) token count...
+
+SKIPPED: Prompt key '10_1016_j_compstruct_2024_118781' due to token count: 13841
+SKIPPED: Prompt key '10_1016_j_finel_2024_104307' due to token count: 17628
+SKIPPED: Prompt key '10_1016_j_ijheatmasstransfer_2024_126616' due to token count: 13923
+SKIPPED: Prompt key '10_1007_s41104_016_0014_0' due to token count: 26897
+SKIPPED: Prompt key '10_1016_j_jobe_2022_105346' due to token count: 24006
+
+--------------------------------------------------
+Prompt processing complete.
+Total prompts originally: 3723
+Prompts skipped: 5
+Prompts remaining for training: 3718
+--------------------------------------------------
+

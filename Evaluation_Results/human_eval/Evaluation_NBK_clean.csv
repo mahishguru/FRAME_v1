@@ -1,0 +1,41 @@
+expert_id,doi_norm,title,artifact_type,criterion,score
+Expert 3,10_4028_www_scientific_net_jbbbe_51_63,Investigation of the Effect of Abutment Angle Tolerance on the Stress Created in the Fixture and Screw in Dental Implants Using Finite Element Analysis,combined,Correctness,5
+Expert 3,10_4028_www_scientific_net_jbbbe_51_63,Investigation of the Effect of Abutment Angle Tolerance on the Stress Created in the Fixture and Screw in Dental Implants Using Finite Element Analysis,combined,Completeness,5
+Expert 3,10_4028_www_scientific_net_jbbbe_51_63,Investigation of the Effect of Abutment Angle Tolerance on the Stress Created in the Fixture and Screw in Dental Implants Using Finite Element Analysis,combined,Coherence,4
+Expert 3,10_4028_www_scientific_net_jbbbe_51_63,Investigation of the Effect of Abutment Angle Tolerance on the Stress Created in the Fixture and Screw in Dental Implants Using Finite Element Analysis,combined,Faithfulness,4
+Expert 3,10_1007_s00542_024_05699_8,Optimal shape design to improve torque characteristics of interior permanent magnet synchronous motor for small electric vehicles,combined,Correctness,5
+Expert 3,10_1007_s00542_024_05699_8,Optimal shape design to improve torque characteristics of interior permanent magnet synchronous motor for small electric vehicles,combined,Completeness,5
+Expert 3,10_1007_s00542_024_05699_8,Optimal shape design to improve torque characteristics of interior permanent magnet synchronous motor for small electric vehicles,combined,Coherence,5
+Expert 3,10_1007_s00542_024_05699_8,Optimal shape design to improve torque characteristics of interior permanent magnet synchronous motor for small electric vehicles,combined,Faithfulness,4
+Expert 3,10_1007_s12206_024_0314_7,Anti-impact and lightweight co-optimization design of welded carriage in a mining dump truck considering multi-sources uncertainties,combined,Correctness,5
+Expert 3,10_1007_s12206_024_0314_7,Anti-impact and lightweight co-optimization design of welded carriage in a mining dump truck considering multi-sources uncertainties,combined,Completeness,4
+Expert 3,10_1007_s12206_024_0314_7,Anti-impact and lightweight co-optimization design of welded carriage in a mining dump truck considering multi-sources uncertainties,combined,Coherence,4
+Expert 3,10_1007_s12206_024_0314_7,Anti-impact and lightweight co-optimization design of welded carriage in a mining dump truck considering multi-sources uncertainties,combined,Faithfulness,5
+Expert 3,10_1007_s12283_024_00464_6,The interdependence of functional properties of a football boot outsole during the shape optimisation process,combined,Correctness,4
+Expert 3,10_1007_s12283_024_00464_6,The interdependence of functional properties of a football boot outsole during the shape optimisation process,combined,Completeness,4
+Expert 3,10_1007_s12283_024_00464_6,The interdependence of functional properties of a football boot outsole during the shape optimisation process,combined,Coherence,4
+Expert 3,10_1007_s12283_024_00464_6,The interdependence of functional properties of a football boot outsole during the shape optimisation process,combined,Faithfulness,4
+Expert 3,10_1016_j_applthermaleng_2022_118965,"Multi-scale and multi-physics analysis, design optimization, and experimental validation of heat exchangers utilizing high performance, non-round tubes",combined,Correctness,5
+Expert 3,10_1016_j_applthermaleng_2022_118965,"Multi-scale and multi-physics analysis, design optimization, and experimental validation of heat exchangers utilizing high performance, non-round tubes",combined,Completeness,5
+Expert 3,10_1016_j_applthermaleng_2022_118965,"Multi-scale and multi-physics analysis, design optimization, and experimental validation of heat exchangers utilizing high performance, non-round tubes",combined,Coherence,4
+Expert 3,10_1016_j_applthermaleng_2022_118965,"Multi-scale and multi-physics analysis, design optimization, and experimental validation of heat exchangers utilizing high performance, non-round tubes",combined,Faithfulness,4
+Expert 3,10_1016_j_ast_2024_109888,Reinforced symbolic learning with logical constraints for predicting turbine blade fatigue life,combined,Correctness,4
+Expert 3,10_1016_j_ast_2024_109888,Reinforced symbolic learning with logical constraints for predicting turbine blade fatigue life,combined,Completeness,4
+Expert 3,10_1016_j_ast_2024_109888,Reinforced symbolic learning with logical constraints for predicting turbine blade fatigue life,combined,Coherence,4
+Expert 3,10_1016_j_ast_2024_109888,Reinforced symbolic learning with logical constraints for predicting turbine blade fatigue life,combined,Faithfulness,4
+Expert 3,10_1016_j_energy_2023_129975,Optimisation of the cooling of pressurised thick-walled components operating with fluid at saturation temperature,combined,Correctness,4
+Expert 3,10_1016_j_energy_2023_129975,Optimisation of the cooling of pressurised thick-walled components operating with fluid at saturation temperature,combined,Completeness,4
+Expert 3,10_1016_j_energy_2023_129975,Optimisation of the cooling of pressurised thick-walled components operating with fluid at saturation temperature,combined,Coherence,5
+Expert 3,10_1016_j_energy_2023_129975,Optimisation of the cooling of pressurised thick-walled components operating with fluid at saturation temperature,combined,Faithfulness,5
+Expert 3,10_1016_j_tws_2023_111333,Energy absorption characteristics of aluminum foam-filled corrugated tube under axial compression loading,combined,Correctness,5
+Expert 3,10_1016_j_tws_2023_111333,Energy absorption characteristics of aluminum foam-filled corrugated tube under axial compression loading,combined,Completeness,4
+Expert 3,10_1016_j_tws_2023_111333,Energy absorption characteristics of aluminum foam-filled corrugated tube under axial compression loading,combined,Coherence,4
+Expert 3,10_1016_j_tws_2023_111333,Energy absorption characteristics of aluminum foam-filled corrugated tube under axial compression loading,combined,Faithfulness,4
+Expert 3,10_1007_s10999_025_09751_x,Strut-based design optimization for improving mechanical properties of lattice structures,combined,Correctness,5
+Expert 3,10_1007_s10999_025_09751_x,Strut-based design optimization for improving mechanical properties of lattice structures,combined,Completeness,5
+Expert 3,10_1007_s10999_025_09751_x,Strut-based design optimization for improving mechanical properties of lattice structures,combined,Coherence,5
+Expert 3,10_1007_s10999_025_09751_x,Strut-based design optimization for improving mechanical properties of lattice structures,combined,Faithfulness,4
+Expert 3,10_4028_www_scientific_net_amr_945_949_147,Optimization of the Rotor Chuck Structure based on Finite Element Analysis,combined,Correctness,4
+Expert 3,10_4028_www_scientific_net_amr_945_949_147,Optimization of the Rotor Chuck Structure based on Finite Element Analysis,combined,Completeness,4
+Expert 3,10_4028_www_scientific_net_amr_945_949_147,Optimization of the Rotor Chuck Structure based on Finite Element Analysis,combined,Coherence,4
+Expert 3,10_4028_www_scientific_net_amr_945_949_147,Optimization of the Rotor Chuck Structure based on Finite Element Analysis,combined,Faithfulness,4

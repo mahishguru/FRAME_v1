@@ -1,0 +1,33 @@
+{
+  "ground_truth": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/final_output.json",
+  "max_parallel_jobs": 4,
+  "inference_jobs": [
+    {
+      "name": "Qwen3-Base",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/qwen3_vl_base_set1_results.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Qwen3-Base",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/qwen3_vl_base_set2_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Qwen3-Finetuned",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/qwen3_vl_lora_set1_results.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Qwen3-Finetuned",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/qwen3_vl_lora_set2_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    }
+  ],
+  "metrics": [
+    "qwen_OT"
+  ]
+}

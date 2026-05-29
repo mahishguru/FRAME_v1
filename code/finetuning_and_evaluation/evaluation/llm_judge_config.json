@@ -1,0 +1,153 @@
+{
+  "ground_truth": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/final_output.json",
+  "max_parallel_jobs": 4,
+  "inference_jobs": [
+    {
+      "name": "Claude-Sonnet",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/claude_sonnet_results_set1.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Claude-Sonnet",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/claude_sonnet_results_set2.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Gemini-3-Pro",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/gemini_results_set1.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Gemini-3-Pro",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/gemini_results_set2.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Gemma3-27B",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/gemma3_27b_results_set1.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Gemma3-27B",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/gemma3_27b_results_set2.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "GPT-5.1",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/gpt5_results_set1.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "GPT-5.1",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/gpt5_results_set2.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Llama4-Maverick",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/llama4_maverick_results_set1.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Llama4-Maverick",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/llama4_maverick_results_set2.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "LLaVA-OV-Base",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/llava_ov_base_set1_results.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "LLaVA-OV-Base",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/llava_ov_base_set2_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "LLaVA-OV-Finetuned",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/llava_ov_lora_set1_results.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "LLaVA-OV-Finetuned",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/llava_ov_lora_set2_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Pixtral-Base",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/pixtral_base_set1_results.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Pixtral-Base",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/pixtral_base_set2_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Pixtral-Finetuned",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/pixtral_lora_set1_results.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Pixtral-Finetuned",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/pixtral_lora_set2_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Qwen3-Base",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/qwen3_vl_base_set1_results.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Qwen3-Base",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/qwen3_vl_base_set2_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Qwen3-Finetuned",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/qwen3_vl_lora_set1_results.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Qwen3-Finetuned",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/qwen3_vl_lora_set2_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Qwen3-VL-Large",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/qwen3_vl_openrouter_results_set1.json",
+      "output_key": "output_1",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output1/results"
+    },
+    {
+      "name": "Qwen3-VL-Large",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/qwen3_vl_openrouter_results_set2.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    }
+  ],
+  "metrics": [
+    "llm_judge"
+  ]
+}
