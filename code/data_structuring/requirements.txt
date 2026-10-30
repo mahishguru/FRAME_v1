@@ -1,0 +1,21 @@
+# IMPORTANT: Install PyTorch for CUDA 12.8 first:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+# Then install the rest of these requirements:
+
+# Core dependencies
+vllm
+requests
+tqdm
+Pillow
+python-dotenv
+
+# Hugging Face dependencies
+huggingface-hub
+transformers
+
+# Utilities
+python-magic  # For mime type detection
+
+#flash-attn
+bitsandbytes
+accelerate 

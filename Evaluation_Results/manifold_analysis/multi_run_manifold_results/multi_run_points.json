@@ -1,0 +1,290 @@
+[
+  {
+    "run_name": "100% (set2)",
+    "checkpoint_name": "checkpoint-50",
+    "step": 50,
+    "epoch": 0.4319654427645788,
+    "loss": 0.7528,
+    "learning_rate": 0.0001,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "100% (set2)",
+    "checkpoint_name": "checkpoint-100",
+    "step": 100,
+    "epoch": 0.8639308855291576,
+    "loss": 0.7245,
+    "learning_rate": 0.0002,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "100% (set2)",
+    "checkpoint_name": "checkpoint-150",
+    "step": 150,
+    "epoch": 1.2937365010799136,
+    "loss": 0.7834,
+    "learning_rate": 0.00018060282634540053,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "100% (set2)",
+    "checkpoint_name": "checkpoint-200",
+    "step": 200,
+    "epoch": 1.7257019438444925,
+    "loss": 0.6797,
+    "learning_rate": 0.00012993631229733582,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "100% (set2)",
+    "checkpoint_name": "checkpoint-250",
+    "step": 250,
+    "epoch": 2.1555075593952484,
+    "loss": 0.7147,
+    "learning_rate": 6.765620128507619e-05,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "100% (set2)",
+    "checkpoint_name": "checkpoint-300",
+    "step": 300,
+    "epoch": 2.587473002159827,
+    "loss": 0.7011,
+    "learning_rate": 1.7923655879272393e-05,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "100% (set2)",
+    "checkpoint_name": "checkpoint-348",
+    "step": 348,
+    "epoch": 3.0,
+    "loss": 0.6888,
+    "learning_rate": 0.0,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "100% (set2)",
+    "checkpoint_name": "checkpoint-final",
+    "step": null,
+    "epoch": null,
+    "loss": null,
+    "learning_rate": null,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "50%",
+    "checkpoint_name": "checkpoint-50",
+    "step": 50,
+    "epoch": 0.8639308855291576,
+    "loss": 0.7704,
+    "learning_rate": 0.0001,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "50%",
+    "checkpoint_name": "checkpoint-100",
+    "step": 100,
+    "epoch": 1.7257019438444925,
+    "loss": 0.7249,
+    "learning_rate": 0.0002,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "50%",
+    "checkpoint_name": "checkpoint-150",
+    "step": 150,
+    "epoch": 2.587473002159827,
+    "loss": 0.7339,
+    "learning_rate": 4.756927164427685e-05,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "50%",
+    "checkpoint_name": "checkpoint-174",
+    "step": 174,
+    "epoch": 3.0,
+    "loss": 0.7544,
+    "learning_rate": 0.0,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "50%",
+    "checkpoint_name": "checkpoint-final",
+    "step": null,
+    "epoch": null,
+    "loss": null,
+    "learning_rate": null,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "60%",
+    "checkpoint_name": "checkpoint-50",
+    "step": 50,
+    "epoch": 0.7194244604316546,
+    "loss": 0.7277,
+    "learning_rate": 0.0001,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "60%",
+    "checkpoint_name": "checkpoint-100",
+    "step": 100,
+    "epoch": 1.4316546762589928,
+    "loss": 0.7575,
+    "learning_rate": 0.0002,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "60%",
+    "checkpoint_name": "checkpoint-150",
+    "step": 150,
+    "epoch": 2.143884892086331,
+    "loss": 0.7362,
+    "learning_rate": 0.00011423148382732853,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "60%",
+    "checkpoint_name": "checkpoint-200",
+    "step": 200,
+    "epoch": 2.8633093525179856,
+    "loss": 0.6948,
+    "learning_rate": 4.050702638550275e-06,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "60%",
+    "checkpoint_name": "checkpoint-210",
+    "step": 210,
+    "epoch": 3.0,
+    "loss": 0.6953,
+    "learning_rate": 0.0,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "60%",
+    "checkpoint_name": "checkpoint-final",
+    "step": null,
+    "epoch": null,
+    "loss": null,
+    "learning_rate": null,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "70%",
+    "checkpoint_name": "checkpoint-50",
+    "step": 50,
+    "epoch": 0.6172839506172839,
+    "loss": 0.7529,
+    "learning_rate": 0.0001,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "70%",
+    "checkpoint_name": "checkpoint-100",
+    "step": 100,
+    "epoch": 1.2345679012345678,
+    "loss": 0.7318,
+    "learning_rate": 0.0002,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "70%",
+    "checkpoint_name": "checkpoint-150",
+    "step": 150,
+    "epoch": 1.8518518518518519,
+    "loss": 0.7337,
+    "learning_rate": 0.0001454968959756165,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "70%",
+    "checkpoint_name": "checkpoint-200",
+    "step": 200,
+    "epoch": 2.4691358024691357,
+    "loss": 0.6799,
+    "learning_rate": 4.13993508683214e-05,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "70%",
+    "checkpoint_name": "checkpoint-243",
+    "step": 243,
+    "epoch": 3.0,
+    "loss": 0.6873,
+    "learning_rate": 0.0,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "70%",
+    "checkpoint_name": "checkpoint-final",
+    "step": null,
+    "epoch": null,
+    "loss": null,
+    "learning_rate": null,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "80%",
+    "checkpoint_name": "checkpoint-50",
+    "step": 50,
+    "epoch": 0.5398110661268556,
+    "loss": 0.7904,
+    "learning_rate": 0.0001,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "80%",
+    "checkpoint_name": "checkpoint-100",
+    "step": 100,
+    "epoch": 1.0755735492577598,
+    "loss": 0.7742,
+    "learning_rate": 0.0002,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "80%",
+    "checkpoint_name": "checkpoint-150",
+    "step": 150,
+    "epoch": 1.6153846153846154,
+    "loss": 0.7264,
+    "learning_rate": 0.0001639045349434554,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "80%",
+    "checkpoint_name": "checkpoint-200",
+    "step": 200,
+    "epoch": 2.1511470985155197,
+    "loss": 0.7386,
+    "learning_rate": 8.16757917267863e-05,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "80%",
+    "checkpoint_name": "checkpoint-250",
+    "step": 250,
+    "epoch": 2.690958164642375,
+    "loss": 0.6936,
+    "learning_rate": 1.2675464898409772e-05,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "80%",
+    "checkpoint_name": "checkpoint-279",
+    "step": 279,
+    "epoch": 3.0,
+    "loss": 0.6336,
+    "learning_rate": 0.0,
+    "lora_scale": 2.0
+  },
+  {
+    "run_name": "80%",
+    "checkpoint_name": "checkpoint-final",
+    "step": null,
+    "epoch": null,
+    "loss": null,
+    "learning_rate": null,
+    "lora_scale": 2.0
+  }
+]

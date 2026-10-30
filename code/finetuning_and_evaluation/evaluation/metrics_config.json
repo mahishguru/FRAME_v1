@@ -1,0 +1,54 @@
+{
+  "ground_truth": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/final_output.json",
+  "max_parallel_jobs": 4,
+  "inference_jobs": [
+    {
+      "name": "Pixtral-LoRA-Set2-P50",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/pixtral_lora_p50_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Pixtral-LoRA-Set2-P60",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/pixtral_lora_p60_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Pixtral-LoRA-Set2-P70",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/pixtral_lora_p70_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Pixtral-LoRA-Set2-P80",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/pixtral_lora_p80_results.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Qwen3-VL-LoRA-Set2-P50",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/qwen3_vl_lora_set2_results_p50.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Qwen3-VL-LoRA-Set2-P60",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/qwen3_vl_lora_set2_results_p60.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Qwen3-VL-LoRA-Set2-P70",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/qwen3_vl_lora_set2_results_p70.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    },
+    {
+      "name": "Qwen3-VL-LoRA-Set2-P80",
+      "inference_results": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/qwen3_vl_lora_set2_results_p80.json",
+      "output_key": "output_2",
+      "results_dir": "/data/mguru/04_Finetuning/frame-finetuning-evaluation/evaluation/output2/results"
+    }
+  ]
+}
